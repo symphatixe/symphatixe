@@ -8,7 +8,10 @@ I have been working in Java for about seven years and have been passionate about
 
 </br></br>
 
-[![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symphatixe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symphatixe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symphatixe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=symphatixe&layout=compact&theme=tokyonight" />
+</a>
 
 </br></br>
 
