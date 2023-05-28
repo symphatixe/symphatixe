@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- **symphatixe/symphatixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--
-**symphatixe/symphatixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Hello everyone my name is Vadim, I am a junior software developer studying computer science at New York Institute of Technology. I am currently in my junior year and have been programming for over seven years.
 
-Here are some ideas to get you started:
+</br>
+I have been working in Java for about seven years and have been passionate about programming from a young age. Throughout the past few years, I have developed full-stack projects that have a user interface, along with code that can support the user interface functions by interaction with a server. I continuously learn and pursue new avenues of programming such as web, app, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br></br>
+
+[![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=symphatixe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=symphatixe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br></br>
+
+## Current Tech Stack:
+
+### Frontend: JavaFX, React
+### Backend: JavaScript, Java
+### Server: MySQL
