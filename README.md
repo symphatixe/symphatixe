@@ -38,7 +38,7 @@ I'm passionate and interested in learning about programming and how it can trans
   ![Static Badge](https://img.shields.io/badge/CSS-informational?style=plastic&logo=css&logoColor=white&labelColor=black&color=rgb(69%2C%200%2C%20112))
 ### Databases:
   ![Static Badge](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=white&label=SQL&labelColor=black&color=rgb(69%2C%200%2C%20112))
-  ![Static Badge](https://img.shields.io/badge/Supabase-informational?style=plastic&logo=supabase&logoColor=white&label=noSQL&labelColor=black&color=rgb(69%2C%200%2C%20112))
+  ![Static Badge](https://img.shields.io/badge/Supabase-informational?style=plastic&logo=supabase&logoColor=white&label=PostgresL&labelColor=black&color=rgb(69%2C%200%2C%20112))
 ### APIs:
   ![Static Badge](https://img.shields.io/badge/Google%20Cloud-informational?style=plastic&logo=googlecloud&logoColor=white&label=API&labelColor=black&color=rgb(69%2C%200%2C%20112))
   ![Static Badge](https://img.shields.io/badge/MailChimp-informational?style=plastic&logo=mailchimp&logoColor=white&label=API&labelColor=black&color=rgb(69%2C%200%2C%20112))
