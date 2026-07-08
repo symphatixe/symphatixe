@@ -22,7 +22,7 @@ I'm passionate and interested in learning about programming and how it can trans
   ![Static Badge](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=white&label=Frontend&labelColor=black&color=rgb(69%2C%200%2C%20112))
   ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-informational?style=plastic&logo=tailwindcss&logoColor=white&label=Frontend&labelColor=black&color=rgb(69%2C%200%2C%20112))
   #### Backend:
-  ![Static Badge](https://img.shields.io/badge/Express.js-informational?style=plastic&logo=express&logoColor=white&label=Backend&labelColor=black&color=rgb(69%2C%200%2C%20112))
+  ![Static Badge](https://img.shields.io/badge/express.js-informational?style=plastic&logo=express&logoColor=white&label=Backend&labelColor=black&color=rgb(69%2C%200%2C%20112))
   ![Static Badge](https://img.shields.io/badge/node.js-informational?style=plastic&logo=nodedotjs&logoColor=white&label=Backend&labelColor=black&color=rgb(69%2C%200%2C%20112))
   #### Full-Stack
   ![Static Badge](https://img.shields.io/badge/next.js-informational?style=plastic&logo=nextdotjs&logoColor=white&label=Full-Stack&labelColor=black&color=rgb(69%2C%200%2C%20112))
